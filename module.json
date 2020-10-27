@@ -21,5 +21,8 @@
       "entity": "Item",
       "module": "Dragons"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/tbouhon/foundryvtt-dragons-module/main/module.json",
+  "download": "https://github.com/tbouhon/foundryvtt-dragons-module/archive/0.1.0.zip",
+  "url": "https://github.com/tbouhon/foundryvtt-dragons-module"
 }
