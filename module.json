@@ -1,0 +1,25 @@
+{
+  "name": "Dragons",
+  "title": "Dragons",
+  "description": "[TODO]",
+  "author": "tbouhon",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.6.6",
+  "compatibleCoreVersion":"0.6.6",
+  "packs": [
+    {
+      "name": "aptitudes-de-classes",
+      "label": "Aptitudes de classe",
+      "path": "packs/aptitudes-de-classes.db",
+      "entity": "Item",
+      "module": "Dragons"
+    },
+    {
+      "name": "armes",
+      "label": "Armes",
+      "path": "packs/armes.db",
+      "entity": "Item",
+      "module": "Dragons"
+    }
+  ]
+}
